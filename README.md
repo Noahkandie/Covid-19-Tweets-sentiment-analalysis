@@ -1,1 +1,1 @@
-# Covid-19-Tweets-sentiment-analalysis
+# Covid-19-Tweets-sentiment-analysis
